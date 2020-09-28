@@ -4,10 +4,15 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+
+    {/* 1 component */}
+    {/* <App />  */}
+    {/* <DemoStateless />
+    <DemoStateFul /> */}
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+
+    <App></App>,
   document.getElementById('root')
 );
 
