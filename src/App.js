@@ -14,13 +14,13 @@ import DemoProps from './Props/DemoProps';
 function App() {
   return (
     <div>
-      {/* <BaiTapLayout1></BaiTapLayout1> */}
+      <BaiTapLayout1></BaiTapLayout1>
       {/* <Databinding></Databinding> */}
       {/* <HandleEvent></HandleEvent> */}
       {/* <ConditionAndState></ConditionAndState> */}
       {/* <BaiTapChonMauXe></BaiTapChonMauXe> */}
       {/* <ListAndKey></ListAndKey> */}
-      <DemoProps></DemoProps>
+      {/* <DemoProps></DemoProps> */}
     </div>
   );
 }

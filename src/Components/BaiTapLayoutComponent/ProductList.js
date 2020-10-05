@@ -9,9 +9,6 @@ export default class ProductList extends Component {
             <h1 className="text-center text-white">BEST SMARTPHONE</h1>
               <div className="row">
                 <Product></Product>
-                <Product></Product>
-                <Product></Product>
-                <Product></Product>
               </div>
             </section>
           </div>
